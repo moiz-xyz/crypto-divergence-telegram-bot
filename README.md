@@ -158,12 +158,6 @@ Possible improvements:
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 <div align="center">
 
 ⭐ If you find this project useful, please star the repository!
